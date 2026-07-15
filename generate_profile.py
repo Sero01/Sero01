@@ -116,7 +116,7 @@ def build() -> str:
         "",
         header_line("Contact"),
         kv_line("Email", "126ahmedparvez@gmail.com"),
-        kv_line("LinkedIn", "parvez-ahmed-b47680124"),
+        kv_line("LinkedIn", "itsparvezahmed"),
         "",
         header_line("GitHub Stats"),
         kv_line("Repos", f'{s["repos"]} | Stars: {s["stars"]}'),
