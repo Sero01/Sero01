@@ -128,10 +128,17 @@ def build() -> str:
     ascii_fs, info_fs = 11.5, 13
     ascii_lh, info_lh = 13, 19
     pad_x, pad_y = 36, 44
-    art_w = 320
+    # size the art column from the art itself (monospace advance ≈ 0.62em)
+    art_w = int(max(len(l) for l in art) * ascii_fs * 0.62) + 12
     info_x = pad_x + art_w + 30
-    width = 1010
-    height = pad_y + max(len(art) * ascii_lh, len(info) * info_lh) + pad_y - 6
+    info_w = int(WIDTH_CHARS * info_fs * 0.62) + 12
+    width = info_x + info_w + pad_x
+    art_h = len(art) * ascii_lh
+    info_h = len(info) * info_lh
+    height = pad_y + max(art_h, info_h) + pad_y - 6
+    # vertically center the shorter column against the taller one
+    art_y0 = pad_y + max(0, (info_h - art_h) // 2)
+    info_y0 = pad_y + 4 + max(0, (art_h - info_h) // 2)
 
     lines = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
@@ -139,7 +146,7 @@ def build() -> str:
         f'<g font-family="\'SFMono-Regular\',Consolas,\'Liberation Mono\',Menlo,monospace" '
         f'font-size="{ascii_fs}" fill="{ASCII_C}" xml:space="preserve">',
     ]
-    y = pad_y
+    y = art_y0
     for row in art:
         # browsers collapse runs of spaces even with xml:space; nbsp keeps alignment
         lines.append(f'<text x="{pad_x}" y="{y}">{esc(row).replace(" ", " ")}</text>')
@@ -150,7 +157,7 @@ def build() -> str:
         f'<g font-family="\'SFMono-Regular\',Consolas,\'Liberation Mono\',Menlo,monospace" '
         f'font-size="{info_fs}" xml:space="preserve">'
     )
-    y = pad_y + 4
+    y = info_y0
     for row in info:
         if row:
             lines.append(f'<text x="{info_x}" y="{y}">{row}</text>')

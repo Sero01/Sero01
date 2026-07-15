@@ -1,53 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="485" viewBox="0 0 1010 485">
-<rect x="0.5" y="0.5" width="1009" height="484" rx="8" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1133" height="550" viewBox="0 0 1133 550">
+<rect x="0.5" y="0.5" width="1132" height="549" rx="8" fill="#0d1117" stroke="#30363d"/>
 <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#c9d1d9" xml:space="preserve">
-<text x="36" y="44"></text>
-<text x="36" y="57">                        .'</text>
-<text x="36" y="70">                 .;++jk%#%@%*+:</text>
-<text x="36" y="83">                +S*k@@@@@@@@@@@%%k*.</text>
-<text x="36" y="96">        ~*kk+~'.S@@@@@@@@@@@@@@@@@@#k~</text>
-<text x="36" y="109">      +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*</text>
-<text x="36" y="122">     ;@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*</text>
-<text x="36" y="135">     .@%k@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*</text>
-<text x="36" y="148">      #S%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+</text>
-<text x="36" y="161">     :@@@@@@@@@@@@#%%%S%%##@@@@@@@@@@@@#~</text>
-<text x="36" y="174">      #@@@@@@@%kj+~;;~~~~++*k%@@@@@@@@@#k</text>
-<text x="36" y="187">      '@@@@@#k*+~;;::::;::::~*S#@%S@@@##j</text>
-<text x="36" y="200">       +@@@S+~;;;;:'''::''''':~+jSkjS@#%</text>
-<text x="36" y="213">        @@S;:::;;;:'........   .'''..;S;</text>
-<text x="36" y="226">        ;@~';j%###@@#j;...;+jSk*+~.   ;</text>
-<text x="36" y="239">       ''#+:+j*jkS%Skkj~:+kjkS%%Skj'</text>
-<text x="36" y="252">       ~*%S~;+kj%@##Sj:' .~*S#%k+~::~k:</text>
-<text x="36" y="265">...'    ~j:.';++j%kk*j~  ;:~S%#*;~.  *.</text>
-<text x="36" y="278">        ~*.....':;;;;~~ ';  ';~:.</text>
-<text x="36" y="291">         k'... ..:~~;;.  .. ...</text>
-<text x="36" y="304">         j~'''':;;~~~;.  .'.'::'    :</text>
-<text x="36" y="317">         ~S+;:~*SSS#@@#%@@S*~~;;'  '+</text>
-<text x="36" y="330">          SSSj*S@@#%%%%%%%%%#@j'':~+</text>
-<text x="36" y="343">          .S#%kjk~~+jjjj*~;;~S+~*jj</text>
-<text x="36" y="356">.:+j*'.+kkS%@@@#%*;:+k%%*'..;kkS%*         ...</text>
-<text x="36" y="369">%@j'   jSj#@@j#@@@S*+*kj;:;*%@@S~          ..</text>
-<text x="36" y="382">@j. .'k@@#k*:'+%@@@@@@###%@@@@j;            ..</text>
-<text x="36" y="395">@@~.  ..    ::;+k#@@@@@@@@@#S+;'.</text>
-<text x="36" y="408">.           '+++++*kSSSSSkj+~;::':</text>
-<text x="36" y="421">              +j****jjjjj**++~:'</text>
-<text x="36" y="434">                .;+****+~;:.</text>
+<text x="36" y="44">             +jj***+++++~~~~;'::</text>
+<text x="36" y="57">         +S#Sj*~;;;:::'':;;;;;~~;;;+~:</text>
+<text x="36" y="70">      'jkkk*~++~;;:;;;;;:::::'''''::::~;;;..</text>
+<text x="36" y="83">     ;+kjjj;:::::'::::''''::;~;:''.  ....:+;:.</text>
+<text x="36" y="96">   kkkkkj**::.''':;:'......''':::;:''...':;;;;;</text>
+<text x="36" y="109">  jk**j**+;:;'..'::''...'..'.....'';;;;'....:+~+'</text>
+<text x="36" y="122">.*j**jj~~~~;'.  ......... ....  ..''':~:. ..'''~~;</text>
+<text x="36" y="135">+;~++**;:'...        .         .     ..''......::'.</text>
+<text x="36" y="148">;+~+~;;:..                                . .   .';</text>
+<text x="36" y="161">+****;:'.      ':;;''...                         .+</text>
+<text x="36" y="174">k****~;:'   ';~*S%%kj**+~;;::::''.               ::</text>
+<text x="36" y="187"> *****+~'. +kkk%%#@@#%%Skkkjjkjjj~:              ;</text>
+<text x="36" y="200">  '*jjj*;''#@@##%##@@@#%%%%%%%%%%kj~'.           ;</text>
+<text x="36" y="213">    'j**++k@@@@@@@@@@@@@############%k;'.. .:+**+</text>
+<text x="36" y="226">      ;.  %@@@@@@@@@@@@@@#%%%%#@@@@@@#j++;~jkS%jj;</text>
+<text x="36" y="239">          :@@@@@@@@@%k*~;''':;*S####%SS*:*%j*k#@%;</text>
+<text x="36" y="252">          :#%S%#@@j;'  .:+***kSjjj%##@@S;%@k++*%%</text>
+<text x="36" y="265">          ++:.''+S*;::';+*+'.j%%#@@@@@@%+j@%k%SSS</text>
+<text x="36" y="278">        '+k%#j~~~k*#Sj+;:::;+#@@@@@@@@@%+:#@%@@@.</text>
+<text x="36" y="291">      :#'   @*:;;j##%#%SS%#@@@@@@@@@@@@k~'~%#@@</text>
+<text x="36" y="304">       @k   %@%#S%@@SS%%kk%#@%@@##%%%%S*;.'j@@S</text>
+<text x="36" y="317">        S@j:@@@@#@@@@#%k*jkkj+*jjjjjj*+;'. ~@@@</text>
+<text x="36" y="330">          *SS@%j%@k*;.  ;+~:';+++~++~;:'.  :#@@S</text>
+<text x="36" y="343">             'kjSk'    .:.    ++;:::'''.   '%@@@@:</text>
+<text x="36" y="356">               %..;;~~~~~~~**;~;.          :S@@@@@#j~</text>
+<text x="36" y="369">                j;j%*~;:;+kkj;:.          '*S#@@@@@S~****.</text>
+<text x="36" y="382">                 :~kj;';+kk*~.           '~*k%@@@@+...';~%#j</text>
+<text x="36" y="395">                   'j%~;~+~;.          .';~*jS#@#;   .'..;*S</text>
+<text x="36" y="408">                    .:'               .':;~*jS%k'    .. .:;~</text>
+<text x="36" y="421">                                     .'';~+*jj;         ';~~</text>
+<text x="36" y="434">                     'j'      ;*~'  .'':;~+~:           ';;~</text>
+<text x="36" y="447">                   *@j~**:.*:j#SSk~::;~~;'             ':::;</text>
+<text x="36" y="460">                  #@+ ;;' ::*#jj+jj*~~;'              .::::;</text>
+<text x="36" y="473">                 %+*  '' ':;%*+~~;''.     .'    .    ':::::'</text>
+<text x="36" y="486">                +S':  ' .;'j~++~::.    .';'    .   ..;':::'</text>
+<text x="36" y="499">                jj'   . ;.~*.j+' :':;'';:;  . '   '.:'';'. .</text>
 </g>
 <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" xml:space="preserve">
-<text x="386" y="48"><tspan fill="#58a6ff" font-weight="bold">parvez@ahmed</tspan><tspan fill="#484f58"> ──────────────────────────────────────────────────────────</tspan></text>
-<text x="386" y="67"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">OS:</tspan><tspan fill="#484f58"> ................................................... </tspan><tspan fill="#c9d1d9">Linux, Android</tspan></text>
-<text x="386" y="86"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#c9d1d9">25 years, 2 months, 2 days</tspan></text>
-<text x="386" y="105"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Host:</tspan><tspan fill="#484f58"> ................................................. </tspan><tspan fill="#c9d1d9">Northern Trust</tspan></text>
-<text x="386" y="124"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">IDE:</tspan><tspan fill="#484f58"> ............................................ </tspan><tspan fill="#c9d1d9">VS Code, Claude Code</tspan></text>
-<text x="386" y="162"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Programming:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript, Java</tspan></text>
-<text x="386" y="181"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Computer:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#c9d1d9">HTML, CSS, SQL, JSON, YAML</tspan></text>
-<text x="386" y="200"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Real:</tspan><tspan fill="#484f58"> ............................. </tspan><tspan fill="#c9d1d9">English, Hindi, Assamese</tspan></text>
-<text x="386" y="238"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Hobbies.IRL:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#c9d1d9">Photography, Travelling</tspan></text>
-<text x="386" y="257"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Hobbies.Perpetual:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#c9d1d9">Making Plans</tspan></text>
-<text x="386" y="295"><tspan fill="#484f58">- </tspan><tspan fill="#d2a8ff" font-weight="bold">Contact</tspan><tspan fill="#484f58"> ─────────────────────────────────────────────────────────────</tspan></text>
-<text x="386" y="314"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Email:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#c9d1d9">126ahmedparvez@gmail.com</tspan></text>
-<text x="386" y="333"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">LinkedIn:</tspan><tspan fill="#484f58"> ............................................. </tspan><tspan fill="#c9d1d9">itsparvezahmed</tspan></text>
-<text x="386" y="371"><tspan fill="#484f58">- </tspan><tspan fill="#d2a8ff" font-weight="bold">GitHub Stats</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────────────</tspan></text>
-<text x="386" y="390"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Repos:</tspan><tspan fill="#484f58"> ................................................. </tspan><tspan fill="#c9d1d9">17 | Stars: 0</tspan></text>
-<text x="386" y="409"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Commits:</tspan><tspan fill="#484f58"> ......................................................... </tspan><tspan fill="#c9d1d9">240</tspan></text>
+<text x="505" y="92"><tspan fill="#58a6ff" font-weight="bold">parvez@ahmed</tspan><tspan fill="#484f58"> ──────────────────────────────────────────────────────────</tspan></text>
+<text x="505" y="111"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">OS:</tspan><tspan fill="#484f58"> ................................................... </tspan><tspan fill="#c9d1d9">Linux, Android</tspan></text>
+<text x="505" y="130"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Uptime:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#c9d1d9">25 years, 2 months, 2 days</tspan></text>
+<text x="505" y="149"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Host:</tspan><tspan fill="#484f58"> ................................................. </tspan><tspan fill="#c9d1d9">Northern Trust</tspan></text>
+<text x="505" y="168"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">IDE:</tspan><tspan fill="#484f58"> ............................................ </tspan><tspan fill="#c9d1d9">VS Code, Claude Code</tspan></text>
+<text x="505" y="206"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Programming:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#c9d1d9">Python, TypeScript, JavaScript, Java</tspan></text>
+<text x="505" y="225"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Computer:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#c9d1d9">HTML, CSS, SQL, JSON, YAML</tspan></text>
+<text x="505" y="244"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Languages.Real:</tspan><tspan fill="#484f58"> ............................. </tspan><tspan fill="#c9d1d9">English, Hindi, Assamese</tspan></text>
+<text x="505" y="282"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Hobbies.IRL:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#c9d1d9">Photography, Travelling</tspan></text>
+<text x="505" y="301"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Hobbies.Perpetual:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#c9d1d9">Making Plans</tspan></text>
+<text x="505" y="339"><tspan fill="#484f58">- </tspan><tspan fill="#d2a8ff" font-weight="bold">Contact</tspan><tspan fill="#484f58"> ─────────────────────────────────────────────────────────────</tspan></text>
+<text x="505" y="358"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Email:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#c9d1d9">126ahmedparvez@gmail.com</tspan></text>
+<text x="505" y="377"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">LinkedIn:</tspan><tspan fill="#484f58"> ............................................. </tspan><tspan fill="#c9d1d9">itsparvezahmed</tspan></text>
+<text x="505" y="415"><tspan fill="#484f58">- </tspan><tspan fill="#d2a8ff" font-weight="bold">GitHub Stats</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────────────</tspan></text>
+<text x="505" y="434"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Repos:</tspan><tspan fill="#484f58"> ................................................. </tspan><tspan fill="#c9d1d9">17 | Stars: 0</tspan></text>
+<text x="505" y="453"><tspan fill="#484f58">. </tspan><tspan fill="#ffa657">Commits:</tspan><tspan fill="#484f58"> ......................................................... </tspan><tspan fill="#c9d1d9">241</tspan></text>
 </g></svg>
